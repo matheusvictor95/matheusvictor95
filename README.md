@@ -3,7 +3,7 @@
 
 
 
-- 💼 Buscando um estágio na área de TI
+- 💼 Desenvolvedor fullstack em Desenvolvimento Web
 - 🌱 Estudando Orientação a objeto usando a linguagem Java, estudando Laravel
 - 😄 Pronouns: ele/dele
 
