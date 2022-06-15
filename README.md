@@ -4,7 +4,7 @@
 
 
 - 💼 Desenvolvedor fullstack em Desenvolvimento Web
-- 🌱 Estudando Orientação a objeto usando a linguagem Java, estudando Laravel
+- 🌱 Estudando Laravel, HTML 5 e CSS
 - 😄 Pronouns: ele/dele
 
  <div align="center">
