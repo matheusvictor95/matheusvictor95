@@ -3,9 +3,9 @@
 
 
 
-- 💼 Desenvolvedor fullstack em Desenvolvimento Web
-- 🌱 Estudando Laravel, HTML 5 e CSS
-- 😄 Pronouns: ele/dele
+- 💼 Desenvolvedor Front-end em Desenvolvimento Web
+- 🌱 Estudando Bootstrap, HTML  e CSS
+
 
  <div align="center">
   <a href="https://github.com/matheusvictor95">
