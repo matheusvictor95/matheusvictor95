@@ -4,7 +4,7 @@
 
 
 - 💼 Desenvolvedor Front-end em Desenvolvimento Web
-- 🌱 Estudando Bootstrap, HTML  e CSS
+- 🖥️ Estudando HTML, CSS utilizando Bootstrap, Javascript puro e também React
 
 ##
 
