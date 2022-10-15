@@ -4,7 +4,7 @@
 
 
 - 💼 Desenvolvedor Front-end em Desenvolvimento Web
-- 🖥️ Estudando HTML, CSS utilizando Bootstrap, Javascript puro e também React
+- 🖥️ Estudando Laravel pela Udemy
 
 ##
 
