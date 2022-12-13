@@ -3,7 +3,7 @@
 
 
 
-- 💼 Desenvolvedor Front-end em Desenvolvimento Web
+- 💼 Desenvolvedor full-stack em Desenvolvimento Web
 - 🖥️ Estudando Laravel pela Udemy
 
 ##
