@@ -39,15 +39,18 @@
   <a href="https://www.instagram.com/matheusvictor95/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
  <a href = "matheusv.diniz95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
   <a href="mailto:https://www.linkedin.com/in/matheus-victor-79028abb/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
-  
 
- </div>
-
- <picture>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusvictor95/matheusvictor95/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusvictor95/matheusvictor95/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheusvictor95/matheusvictor95/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+  
+
+ </div>
+
 
 ###
 
