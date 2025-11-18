@@ -4,7 +4,7 @@
 
 
 
-- 💼 Desenvolvedor full-stack em Desenvolvimento Web
+- 💼 Desenvolvedor Full Stack Web
 
 
 ##
